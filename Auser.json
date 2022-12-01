@@ -1,0 +1,12 @@
+{
+      "Name": "liz",
+      "Age": 30,
+      "Gender": "female",
+      "Email": "hjg",
+      "Password": "fgg",
+      "movie_genre": {
+            "genreA": "gh",
+            "genreB": "hgf",
+            "genreC": "ghf"
+      }
+}
